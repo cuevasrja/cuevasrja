@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Juan Andres 👋
+#### 🌱 I’m a Junior Frontend Developer 
+#### 🔭 I'm currently studying Computer Engineering at [USB](http://www.usb.ve/)
+#### :nerd_face: I'm learning Python and JS Frameworks like React.js or Node.js
+#### ⚡ Fun fact:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacuevasr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacuevasr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jacuevasr/jacuevasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
