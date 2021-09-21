@@ -3,9 +3,9 @@
 #### 🔭 I'm currently studying Computer Engineering at [USB](http://www.usb.ve/)
 #### :nerd_face: I'm learning Python and JS Frameworks like React.js or Node.js
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacuevasr&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacuevasr&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacuevasr&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacuevasr&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
 
 <!-- title_color: "fff" & "00bfff",
     icon_color: "00bfff",
