@@ -1,5 +1,5 @@
 ## Hi, I'm Juan Andres 👋
-#### 🌱 I’m a Junior Frontend Developer 
+#### 🌱 I’m a Frontend Developer 
 #### 🔭 I'm currently studying Computer Engineering at [USB](http://www.usb.ve/) :venezuela:
 #### :nerd_face: I'm learning Python and JS Frameworks/Libraries like React.js or Node.js
 
