@@ -3,12 +3,12 @@
 #### 🔭 I'm currently studying Computer Engineering at [USB](http://www.usb.ve/) :venezuela:
 #### :nerd_face: I'm learning Python and JS Frameworks/Libraries like React.js or Node.js
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacuevasr&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuevasrja&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacuevasr&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuevasrja&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
 
 ### 📫 How to reach me: 
-- [**LinkedIn**](https://www.linkedin.com/in/cuevasrja/?locale=en_US)
+- [**LinkedIn**](https://www.linkedin.com/in/cuevasrja/)
 - [**E-mail**](juanandrescuevas14@gmail.com)
 
 <!-- title_color: "fff" & "00bfff",
