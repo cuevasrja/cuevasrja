@@ -16,7 +16,7 @@
 #### Creating bugs since 2017
 #### 📚 I'm currently learning about AI Development
 #### 🎯 Goals: Graduate as an engineer and specializing in AI
-#### 🎲 Fun fact: I like video games (Mayber I could learn from that too)
+#### 🎲 Fun fact: I like video games (Maybe I could learn from that too)
 
 ###
 
