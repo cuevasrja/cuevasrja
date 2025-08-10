@@ -3,9 +3,9 @@
 ###
 
 ### My name is *Juan Andres Cuevas*
-#### 🌱 I’m a Full Stack Developer in [Market Street Labs](https://marketstreetlabs.com/)
+#### 🌱 I’m a Full Stack Developer in [Multipro Consulting](https://www.multiproconsulting.com/)
 #### 🔭 I'm currently studying Computer Engineering at [USB](http://www.usb.ve/) :venezuela:
-#### :nerd_face: I'm learning C/C++ and JS Frameworks/Libraries like Next
+#### :nerd_face: I'm learning about AI and Data Science
 
 ###
 
