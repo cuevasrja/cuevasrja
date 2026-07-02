@@ -3,8 +3,8 @@
 ###
 
 ### My name is *Juan Andres Cuevas*
-#### 🌱 I’m a Full Stack Developer in [Multipro Consulting](https://www.multiproconsulting.com/)
-#### 🔭 I'm currently studying Computer Engineering at [USB](http://www.usb.ve/) :venezuela:
+#### 🌱 I’m a Full Stack Developer in [Acid Tango](https://acidtango.com/)
+#### 🔭 I'm Computer Engineering at [USB](http://www.usb.ve/) :venezuela:
 #### :nerd_face: I'm learning about AI and Data Science
 
 ###
@@ -15,7 +15,7 @@
 
 #### Creating bugs since 2017
 #### 📚 I'm currently learning about AI Development
-#### 🎯 Goals: Graduate as an engineer and specializing in AI
+#### 🎯 Goals: Specializing in AI
 #### 🎲 Fun fact: I like video games (Maybe I could learn from that too)
 
 ###
@@ -62,9 +62,9 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuevasrja&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuevasrja&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/cuevasrja?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuevasrja&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/jacuevasr?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuevasrja&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/cuevasrja?tab=repositories)
 
 ###
 
